@@ -1,0 +1,11 @@
+hp = 100;
+maxhp = hp;
+rx = 0;
+ry = 0;
+move = 4;
+state = ObjectStates.follow;
+dashCoolDown = 0;
+target_x = PlayerTankOBJ.x + random_range(-300,300);
+target_y = PlayerTankOBJ.y + random_range(-300,300);
+alarm_set(3,240);
+move_range = 120;
