@@ -1,0 +1,11 @@
+hp = 100;
+maxhp = hp;
+moveSpeed = 5.3;
+recoilSpeed = 10;
+recoil = 12;
+can_shoot = true;
+shot_cool_down = room_speed * 0.5;
+depth = 0;
+instance_create_layer(x,y,"Instances",PlayerTurretOBJ);
+rx = 0;
+ry = 0;
