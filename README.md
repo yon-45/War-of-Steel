@@ -1,5 +1,5 @@
 # War-of-Steel
-A 2D tank action game I made in Game Maker Studio with a few classmtes of mine for our midterm project back in October of 2025. It's the first actual "complete" game project that I have created.
+A 2D tank action game I made in GameMaker Studio 2 with a few classmtes of mine for our midterm project back in October of 2025. It's the first actual "complete" game project that I have created.
 
 (I'm really sorry for the messy files and code. I never really got around to cleaning up the game's files and code because we were rushing to finish it before the midterm deadline. It's also made during the time where I didn't know how to program actual pathfinding, so there will probably be a lot of enemy NPCs bugging out.)
 
